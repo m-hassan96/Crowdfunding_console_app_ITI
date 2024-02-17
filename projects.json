@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "Title": "iti",
+        "Details": "it will be very good offer",
+        "TotalTarget": "200000",
+        "StartDate": "2024-05-19",
+        "EndDate": "2025-10-43"
+    },
+    {
+        "id": 1,
+        "Title": "my_project",
+        "Details": "i'm doing very well",
+        "TotalTarget": "350000",
+        "StartDate": "2024-12-09",
+        "EndDate": "2024-11-13"
+    },
+    {
+        "id": 2,
+        "Title": "water_pamps",
+        "Details": "this project will help a lot of people to drink and use water in all day",
+        "TotalTarget": "10000",
+        "StartDate": "2024-12-22",
+        "EndDate": "2025-02-01"
+    },
+    {
+        "id": 3,
+        "Title": "haram",
+        "Details": "this will help many people",
+        "TotalTarget": "120000",
+        "StartDate": "2025-11-02",
+        "EndDate": "2025-09-18"
+    }
+]
